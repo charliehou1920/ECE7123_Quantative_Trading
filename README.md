@@ -13,7 +13,7 @@ There are two versions of code architecture so far. I'm trying to combine these 
 
 3. Fine-tune   
   a. LSTM model  
-      I. Window size  
-      II. Layer structure  
+    &nbsp  I. Window size  
+    &nbsp II. Layer structure  
   b. Learning rate  
   
